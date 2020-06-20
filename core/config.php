@@ -4,7 +4,7 @@ use Medoo\Medoo;
  
 $database = new Medoo([
 	'database_type' => 'mysql',
-	'database_name' => 'ipt_api',
+	'database_name' => 'ipt',
 	'server' => 'localhost',
 	'username' => 'root',
 	'password' => '',
